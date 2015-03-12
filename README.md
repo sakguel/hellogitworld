@@ -1,4 +1,5 @@
-This is a sample project students can use during Matthew's Git class.
+# HelloGitWorld
+This is a sample project students can use during a GitHub Training class.
 
 Here is an addition by me
 
