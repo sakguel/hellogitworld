@@ -1,4 +1,5 @@
-This is a sample project students can use during Matthew's Git class.
+# HelloGitWorld
+This is a sample project students can use during a GitHub Training class.
 
 Here is an addition by me
 
@@ -6,9 +7,9 @@ We can have a bit of fun with this repo, knowing that we can always reset it to 
 
 As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
 
-* git@github.com:matthewmccullough/hellogitworld.git
-* git://github.com/matthewmccullough/hellogitworld.git
-* https://matthewmccullough@github.com/matthewmccullough/hellogitworld.git
+* git@github.com:githubschool/hellogitworld.git
+* git://github.com/githubschool/hellogitworld.git
+* https://github.com/githubschool/hellogitworld.git
 
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
