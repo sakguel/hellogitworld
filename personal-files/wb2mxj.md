@@ -6,5 +6,6 @@ README.md for the wb2mxjEDITS file within the wb2mxj folder within the personal-
 
 ## Recipe
 -Honey garlic salmon
-  -ingerdients
-    -directions
+  -ingredients
+  	-sauce
+  -directions
