@@ -8,3 +8,4 @@
 * Things that I have to do today:
   * [ ] Laundry
   * [ ] Spring Cleaning - Throw out clothes
+  * [x] Play with Cezar :hamster:
