@@ -1,6 +1,6 @@
 - line one
 - line two
-- line three 3
+- line three
 - line four
-- line five 5
-- 
+- line five
+- line six
