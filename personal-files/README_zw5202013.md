@@ -8,6 +8,9 @@ First Name | Last Name
 ------------ | -------------
 Wei | Zhang
 
+
+Adding a test for terminal access.
+
 Any more cool things?
 
 :clock12:
