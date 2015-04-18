@@ -11,7 +11,7 @@ The City of New Orleans says ~~SMOKING~~ in many indoors locations on April 22nd
 :santa: says **be nice** or **NO** :gift:s
 
 ##Recipe
--Shrimp tacos
+- Shrimp tacos
 	- Ingredients:
 		- shrimp
 		- peppers
