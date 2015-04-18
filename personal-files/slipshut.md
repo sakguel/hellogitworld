@@ -1,4 +1,4 @@
-Sara Lipshutz
+Name: Sara Lipshutz
 Born: Santa Monica, CA
 Grew up: New York and Philadelphia
 Current spot: New Orleans, LA
