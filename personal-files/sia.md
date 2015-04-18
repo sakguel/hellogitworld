@@ -6,18 +6,18 @@ You can checkout my portfolio [here](http://siakaramalegos.github.io/).
 ## Recipe
 Here is my recipe that I would like to share:
 ### Ingredients
-1 cup sugar
-5 cups chopped walnuts
-1 tablespoon ground cinnamon
-2 sticks butter, melted (only melt 1 at a time)
-1 package filo dough
-60 whole cloves
+- 1 cup sugar
+- 5 cups chopped walnuts
+- 1 tablespoon ground cinnamon
+- 2 sticks butter, melted (only melt 1 at a time)
+- 1 package filo dough
+- 60 whole cloves
 #### Syrup:
-1 ¼ cup water
-2 cups sugar
-8 oz orange blossom honey
-1 cinnamon stick
-Pieces of lemon and orange peel
+- 1 ¼ cup water
+- 2 cups sugar
+- 8 oz orange blossom honey
+- 1 cinnamon stick
+- Pieces of lemon and orange peel
 ### Instructions
 1. First, prepare the syrup.  Combine syrup ingredients in a saucepan, and bring to a simmer.  Continue to cook until sugar is dissolved and coats the back of a spoon.  Let cool.  
 2. Mix the first 3 ingredients together in a bowl.
