@@ -14,4 +14,4 @@ And 'tailor' cries, and falls into a cough;
 And then the whole quire hold their hips and laugh,
 And waxen in their mirth and neeze and swear
 A merrier hour was never wasted there.
-But, room, fairy! here comes Oberon.</em> -- <strong><em>W. Shakespeare</em></strong>
+But, room, fairy! here comes Oberon.</em> -- <strong>Puck Monologue from A Mid-Summer Night's Dream<em> -- by W. Shakespeare</em></strong>
