@@ -6,4 +6,8 @@
 ## Recipe
 - Honey Garlic Salmon
   - Ingredients:
+    - Sauce
+    - garlic
+    - etc
   - Directions:
+    - cook on the grill
