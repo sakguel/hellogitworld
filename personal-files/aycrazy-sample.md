@@ -5,3 +5,7 @@
 - My favorite restaurant for oysters is Superior Seafood
 
 The City of New Orleans says ~~SMOKING~~ in many indoors locations on April 22nd
+
+:house: :earth_americas: 
+
+:santa: says **be nice** or **NO** :gift:s
