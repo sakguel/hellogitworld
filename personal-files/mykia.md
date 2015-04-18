@@ -1,6 +1,6 @@
 # mykia's Personal file
 
-mykia :heart:'s octocat
+mykia :revolving_hearts:'s octocat
 
 
 | Restaurant    | Type          | Price  |
