@@ -10,3 +10,6 @@
 ## Recipe
 - Quick and Easy Green Chile Chicken Enchilada Casserole
 - Ingredients
+ - Sauce
+ - garlic
+ - etc.
