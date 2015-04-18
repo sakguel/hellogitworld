@@ -1,3 +1,3 @@
 # mykia's Personal file
 
-mykia :heart:'s octokitty
+mykia :heart:'s octocat
