@@ -19,6 +19,7 @@ Here is my recipe that I would like to share:
 - 8 oz orange blossom honey
 - 1 cinnamon stick
 - Pieces of lemon and orange peel
+
 ### Instructions
 1. First, prepare the syrup.  Combine syrup ingredients in a saucepan, and bring to a simmer.  Continue to cook until sugar is dissolved and coats the back of a spoon.  Let cool.  
 2. Mix the first 3 ingredients together in a bowl.
