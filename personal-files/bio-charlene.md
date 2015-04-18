@@ -6,3 +6,7 @@
 * Vegas Tapas
 * The Franklin
 * Lebanon Cafe
+
+## Recipe
+- Quick and Easy Green Chile Chicken Enchilada Casserole
+- Ingredients
