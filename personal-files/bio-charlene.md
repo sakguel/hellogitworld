@@ -5,3 +5,4 @@
 * Lola's
 * Vegas Tapas
 * The Franklin
+* Lebanon Cafe
