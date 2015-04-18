@@ -1,5 +1,6 @@
-<h1>Chris Andrews (flightnc)</h1>
-<em>I am that merry wanderer of the night.
+# Chris Andrews (flightnc)
+
+_I am that merry wanderer of the night.
 I jest to Oberon and make him smile
 When I a fat and bean-fed horse beguile,
 Neighing in likeness of a filly foal:
@@ -14,4 +15,4 @@ And 'tailor' cries, and falls into a cough;
 And then the whole quire hold their hips and laugh,
 And waxen in their mirth and neeze and swear
 A merrier hour was never wasted there.
-But, room, fairy! here comes Oberon.</em> -- <strong><em>W. Shakespeare</em></strong>
+But, room, fairy! here comes Oberon._ -- **Puck Monologue from A Mid-Summer Night's Dream -- _by W. Shakespeare_**
