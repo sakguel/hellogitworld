@@ -1,4 +1,4 @@
-boogars are yummy
+**Boogars are yummy.**
 
 * Things that I like to do:
   * Stare at people
