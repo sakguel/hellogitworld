@@ -8,3 +8,11 @@ mykia :revolving_hearts:'s octocat
 | Drago's       | Seafood       |   $$   |
 | Amici         | Italian       |   $$   |
 | Mikimoto      | Sushi         |   $$   |
+
+
+# Recipe
+- ## Dark Chocolate Brownies
+ - Buy Brownie mix
+ - Follow mixing directions
+ - Put in oven
+ - Eat
