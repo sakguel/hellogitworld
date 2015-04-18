@@ -1,15 +1,15 @@
 #Nom Nom, Black Bean Dip!#
 
-![Image of Food](https://download.unsplash.com/31/RpgvvtYAQeqAIs1knERU_vegetables.jpg
+![Image of Food](https://download.unsplash.com/31/RpgvvtYAQeqAIs1knERU_vegetables.jpg)
 
 ##Ingredients##
 
-*3 cans black beans
-*2 avocados
-*1 can salsa
-*1 lemon
-*minced garlic
-*salt n peppa
+* 3 cans black beans
+* 2 avocados
+* 1 can salsa
+* 1 lemon
+* minced garlic
+* salt n peppa
 
 ##Directions##
 
