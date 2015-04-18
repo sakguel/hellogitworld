@@ -1,3 +1,3 @@
-Name: Ellis Fenske
-Born: Seattle, WA
-Favorite Restaurant: Singleton's
+Name: Ellis Fenske<p>
+Born: Seattle, WA<p>
+Favorite Restaurant: Singleton's<p>
