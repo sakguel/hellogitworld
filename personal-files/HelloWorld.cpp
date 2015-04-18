@@ -1,3 +1,7 @@
+/*
+@author Neil Barot
+*/
+
 #include <iostream>
 
 int main(void)
