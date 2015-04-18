@@ -14,4 +14,11 @@ I also like [Mat and Nadde's](http://www.matandnaddies.com/)
 ## Recipe
 My favorite recipe to make at :home: is **red beans and rice**.
 - Ingredients
+  - dry red beans
+  - onions
+  - sausage
 - Instructions
+  1. soak the beans overnight
+  2. add water to ~1/4 in over the top of the beans
+  3. bring the beans and water to a boil
+  4. simmer the beans for several hours
