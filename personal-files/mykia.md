@@ -11,8 +11,15 @@ mykia :revolving_hearts:'s octocat
 
 
 # Recipe
-- ## Dark Chocolate Brownies
- - Buy Brownie mix
+## Dark Chocolate Brownies
+
+- Ingredients:
+	- Dark Chocolate Brownie Mix
+	- Eggs
+	- Milk or Water
+	- Nuts (optional)
+
+- Directions:
  - Follow mixing directions
  - Put in oven
  - Let them cool
