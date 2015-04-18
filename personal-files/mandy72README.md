@@ -1,5 +1,9 @@
-# Read Me
+# About Mandy
 
-Hello World
+Graphic Designer/Web Developer
 
-[link to Google!](http://google.com)
+Lives in New Orleans
+
+Likes to eat at Mimi's!
+
+[My Site!](http://mandywalshcreative.com)
