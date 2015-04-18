@@ -1,4 +1,4 @@
 #Welcome to my branch!
+Hi there,
 
-Hi there, 
 My name is Neil Barot, and I am a freshman at Tulane University!
