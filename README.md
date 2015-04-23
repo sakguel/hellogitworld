@@ -1,5 +1,5 @@
-# HelloGitWorld
-This is a sample project students can use during a GitHub Training class.
+# Hello Git World
+This is a practice file for working with READMEs, Markdown, and Pull Requests
 
 Here is an addition by me
 
