@@ -1,8 +1,11 @@
 # Hello Git World
 This is a practice file for working with READMEs, Markdown, and Pull Requests
 
-Here is an addition by me
+## Objectives
+- Proper workflow understanding
+- Collaboration on a Pull Request
 
+## Notes
 We can have a bit of fun with this repo, knowing that we can always reset it to a known good state.  We can apply labels, and branch, then add new code and merge it in to the master branch.
 
 As a quick reminder, this came from one of three locations in either SSH, Git, or HTTPS format:
